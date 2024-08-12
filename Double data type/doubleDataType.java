@@ -6,8 +6,8 @@ public class doubleDataType {
         double x = 5, y =2;
         System.out.println(x/y);
 
-        double  a = 5;
-        double b = 2;
+        double  p = 5;
+        double q = 2;
         double z = 5/2; // here first compiler see integer 5 so its gives answer in interger. not in float value.
         System.out.println(z);
     }

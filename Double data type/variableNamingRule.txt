@@ -1,0 +1,6 @@
+Variable Naming Rule:
+a) Variable can start from an alphabet or underscore _ .
+b) Special characters expect _ are not allowed.
+special characters are !, @, #, %, ^, &, *, (, ), {, }, [, ], \, |, ., ,, < > " ; : - + = 
+c) Some Particular keywords are not allowed.
+d) Commas or blanks are not allowed.
