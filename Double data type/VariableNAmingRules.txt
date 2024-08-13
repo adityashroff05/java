@@ -1,0 +1,3 @@
+Varibale Naming Rules
+Question, Which of the following are invalid varibales
+BASICSALARY _basic Basic-hr #MEAN 
