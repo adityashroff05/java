@@ -5,7 +5,13 @@ public class if_else {
         Scanner sc = new Scanner(System.in);
         System.out.println("enter a Number: ");
         int n = sc.nextInt();
-        System.out.println(n);
+        if(n%2==0){
+            System.out.println("the number is even");
+        }
+        else{
+            System.out.println("the number is odd");
+        }
+        //System.out.println(n);
         sc.close();
     }
 }
