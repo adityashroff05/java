@@ -12,7 +12,7 @@ public class Question2 {
             else{
                 System.out.println("Not divisible");
             }
-            }
+        }
             sc.close();
         }
     }
