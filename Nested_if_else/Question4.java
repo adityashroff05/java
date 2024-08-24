@@ -14,7 +14,7 @@ public class Question4 {
             System.out.println(Ram+"is Youngest");
         }
         else{
-            System.out.println(Ajay+"is Youngest");
+            System.out.println(Ajay+"is Youngest and smart");
         }
     }
     else{
